@@ -1,5 +1,5 @@
 package com.techprimers.testing;
-public public static void main()
+
     
 public class FizzBuzz {
 
