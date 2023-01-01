@@ -1,4 +1,6 @@
 package com.techprimers.testing;
+public public static void name()
+    
 
 public class FizzBuzz {
 
